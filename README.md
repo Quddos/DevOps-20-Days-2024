@@ -42,3 +42,14 @@ Welcome to the DEVOPS 2024 💻 repository! Training by @**[QUDDUS](https://www.
 |     3| Working with servlet container      |
 
 </details>
+
+ <details>
+<summary>Day 4: 🚀 Working with Jenkins  </summary>
+
+| S/N | [Content](https://www.youtube.com/@bdnaturetech)|
+|-----:|-----------|
+|     1| Setting up Jenkins|
+|     2| working on open-source automation server   |
+|     3| continuous integration and delivery - CI/CD     |
+
+</details>
